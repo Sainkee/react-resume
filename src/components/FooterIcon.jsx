@@ -10,7 +10,7 @@ export default function FooterIcon() {
             className="flex   items-center flex-col space-x-2 p-2  hover:bg-gray-200 rounded-md"
           >
             {/* Render the icon */}
-            <span  className=" border-[4px] border-black  bg-blue-700 p-4 rounded-full">
+            <span  className="   bg-blue-700 p-5 rounded-full">
               {x.icons}
             </span>
             {/* Render the label */}
